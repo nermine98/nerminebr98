@@ -1,0 +1,133 @@
+[
+    {
+        "question": "quelle est la specialité du musée tussauds de Londres?",
+        "options":[
+            "l'égypte ancienne", 
+            "les statues de cire",
+            "les sciences naturelles",
+            "le football"
+        ],
+        "correctIndex" : 1
+    },
+    {
+        "question": "de quel sport, le superbowl est-il le match de la grande finale annuelle?",
+        "options":[
+            "baseball ",
+            "basketball",
+            "football americain", 
+            "tennis"
+
+        ],
+        "correctIndex" : 2
+    },
+    {
+        "question": "qui occupait la poste de vice-president(e) des etats-unis d'Amerique lors de la presidence de Barack Obama?",
+        "options":[
+            "Hillary Clinton ", 
+            "John Kerry", 
+            "Al Gore", 
+            "Joe Biden"
+
+        ],
+        "correctIndex" : 3
+    },
+    {
+        "question": "Quelle fleur est le symbole de la Turquie?",
+        "options":[
+             "la tulipe ", 
+             "la rose", 
+             "le lys", 
+             "l'orchidée"
+
+        ],
+        "correctIndex" : 0
+    },
+    {
+        "question": "qui a été la premiere epouse de l'acteur Brad Pitt?",
+        "options":[
+            "Angelina Jolie ", 
+            "Jennifer Anniston",
+            "Gwen Stefani", 
+            "Gwyneth Paltrow"
+
+        ],
+        "correctIndex" : 1
+    },
+    {
+        "question": "de combien d'oeuvres se compose une tétralogie?",
+        "options":[
+             "3 ", 
+             "4", 
+             "5", 
+             "6"
+
+        ],
+        "correctIndex" : 0
+    },
+    {
+        "question": "lequel de ces grands films n'est pas basé sur un roman ou une nouvelle?",
+        "options":[
+            "Forrest Gump ", 
+            "Jurassic Park ", 
+            "Gatsby le magnifique", 
+            "King Kong"
+
+        ],
+        "correctIndex" : 3
+    },
+    {
+        "question": "quel Tennisman est devenu en 2022, le plus jeune numero 1 mondial de l'histoire à seulement 19 ans et 4 mois?",
+        "options":[
+            "Alexander Zverev ", 
+            "Holger Rune ", 
+            "Carlos Alcaraz", 
+            "Dominic Thiem"
+
+        ],
+        "correctIndex" : 2
+    },
+    {
+        "question": "qui est l'auteur du roman Les misérables ?",
+        "options":[
+            "Jean-Paul Sartre ", 
+            "Victor Hugo ", 
+            "Albert Camus", 
+            "Marcel Proust"
+
+        ],
+        "correctIndex" : 1
+    },
+    {
+        "question": "qui a gagné la coupe du monde en 2014?",
+        "options":[
+            "Brésil ", 
+            "Argentine ", 
+            "Algérie", 
+            "Allemagne"
+
+        ],
+        "correctIndex" : 3
+    },
+    {
+        "question": "quelle mer borde la Tunisie?",
+        "options":[
+            "aucune ", 
+            "la mediterannée ", 
+            "la mer morte", 
+            "la mer adriatique"
+
+        ],
+        "correctIndex" : 1
+    },
+    {
+        "question": "en quelle année Walt-Disney est-il decedé?",
+        "options":[
+             "1966 ", 
+             "1968 ", 
+             "1970", 
+             "1972"
+
+        ],
+        "correctIndex" : 0
+    }
+]
